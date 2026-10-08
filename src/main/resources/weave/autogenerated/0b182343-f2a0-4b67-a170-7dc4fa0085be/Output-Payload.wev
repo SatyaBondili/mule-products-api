@@ -1,0 +1,10 @@
+%dw 2.0
+
+type auto_0b182343_f2a0_4b67_a170_7dc4fa0085be_Output_Payload = {
+  total: Number, 
+  offset: Number, 
+  limit: Number, 
+  items: Array<{    createdDate: String,     productId: Number,     price: Number,     name: String,     description?: String,     stockQuantity: Number,     active: Boolean,     currency: String,     sku: String,     category: String,     brand?: String,     _?: Any  } {"description": "A product as stored in products.csv"}>, 
+  _?: Any
+}
+

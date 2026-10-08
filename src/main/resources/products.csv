@@ -1,0 +1,16 @@
+productId,sku,name,description,category,brand,price,currency,stockQuantity,active,createdDate
+1001,LAP-DEL-001,Dell Inspiron 15,15.6 inch laptop with 16GB RAM and 512GB SSD,Electronics,Dell,58999,INR,25,TRUE,1/10/2026
+1002,LAP-HP-002,HP Pavilion 14,14 inch thin and light laptop with Intel i5,Electronics,HP,62499,INR,18,TRUE,1/12/2026
+1003,PHN-SAM-003,Samsung Galaxy S24,6.2 inch smartphone with 256GB storage,Electronics,Samsung,74999,INR,40,TRUE,1/15/2026
+1004,PHN-APL-004,Apple iPhone 15,6.1 inch smartphone with 128GB storage,Electronics,Apple,79900,INR,32,TRUE,1/18/2026
+1005,HDP-SNY-005,Sony WH-1000XM5,Wireless noise cancelling headphones,Accessories,Sony,29990,INR,55,TRUE,2/2/2026
+1006,KBD-LOG-006,Logitech MX Keys,Wireless illuminated keyboard,Accessories,Logitech,10995,INR,70,TRUE,2/5/2026
+1007,MSE-LOG-007,Logitech MX Master 3S,Ergonomic wireless mouse,Accessories,Logitech,9995,INR,85,TRUE,2/5/2026
+1008,MON-LG-008,LG UltraGear 27,27 inch QHD 165Hz gaming monitor,Electronics,LG,26999,INR,14,TRUE,2/20/2026
+1009,CHR-GDR-009,Godrej Ergo Chair,Ergonomic office chair with lumbar support,Furniture,Godrej,12499,INR,22,TRUE,3/1/2026
+1010,DSK-URB-010,Urban Standing Desk,Height adjustable electric standing desk,Furniture,Urban,21999,INR,9,TRUE,3/3/2026
+1011,BTL-MLT-011,Milton Steel Bottle 1L,Insulated stainless steel water bottle,Home & Kitchen,Milton,799,INR,200,TRUE,3/10/2026
+1012,MXR-PRE-012,Preethi Zodiac Mixer,750W mixer grinder with 5 jars,Home & Kitchen,Preethi,8499,INR,35,TRUE,3/12/2026
+1013,BKS-ORM-013,Atomic Habits,Paperback book by James Clear,Books,Penguin,499,INR,150,TRUE,3/20/2026
+1014,CAM-CAN-014,Canon EOS R50,Mirrorless camera with 18-45mm lens,Electronics,Canon,67995,INR,0,FALSE,4/1/2026
+1015,WCH-NOS-015,Noise ColorFit Pro,Smartwatch with AMOLED display,Accessories,Noise,3499,INR,120,TRUE,4/8/2026
